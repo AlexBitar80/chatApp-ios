@@ -7,6 +7,8 @@ target 'Flash Chat iOS13' do
   inhibit_all_warnings!
 
   # Pods for Flash Chat iOS13
+
+  pod 'IQKeyboardManagerSwift'
   
   # Add the Firebase pod for Google Analytics
   pod 'Firebase/Auth'
