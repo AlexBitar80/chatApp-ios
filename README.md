@@ -1,7 +1,7 @@
 # IOSAppChat
 <br />
 <p align="center">
-  <a href="https://github.com/alexanderritik/Best-README-Template">
+  <a href="#">
     <img src="https://user-images.githubusercontent.com/56983783/150660068-46adfbf5-d88b-4a38-90c6-c0d173758cb2.png" alt="Logo" width="80" height="80">
   </a>
   <p align="center">
